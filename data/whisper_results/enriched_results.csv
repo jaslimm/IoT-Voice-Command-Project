@@ -1,0 +1,41 @@
+file,transcript,label,voice_source,hidden,masking,condition
+human_joke_light.wav,Hey Google tell me a joke.,correct,human,normal,light,human_light_normal
+human_joke_light_hidden.wav,"Hey Google, tell me a joke.",correct,human,hidden,light,human_light_hidden
+human_music_light.wav,"Hey Google, play music.",correct,human,normal,light,human_light_normal
+human_music_light_hidden.wav,Сейчасitation.,incorrect,human,hidden,light,human_light_hidden
+human_oneminute_light.wav,"Hey Google, set a timer for one minute.",correct,human,normal,light,human_light_normal
+human_oneminute_light_hidden.wav,"Hey Google, set a timer for one minute.",correct,human,hidden,light,human_light_hidden
+human_time_light.wav,"Hey Google, what time is it?",correct,human,normal,light,human_light_normal
+human_time_light_hidden.wav,"Hey Google, what time is it?",correct,human,hidden,light,human_light_hidden
+human_weather_light.wav,"Hey Google, what is the weather today?",correct,human,normal,light,human_light_normal
+human_weather_light_hidden.wav,"Hey Google, what is the weather today?",correct,human,hidden,light,human_light_hidden
+tts_joke_light.wav,"Hey Google, tell me a joke.",correct,tts,normal,light,tts_light_normal
+tts_joke_light_hidden.wav,Hey Google tell me joke.,correct,tts,hidden,light,tts_light_hidden
+tts_music_light.wav,"Hey Google, play music.",correct,tts,normal,light,tts_light_normal
+tts_music_light_hidden.wav,if you enjoyed today's video...,incorrect,tts,hidden,light,tts_light_hidden
+tts_oneminute_light.wav,Hey Google set a timer for one minute.,correct,tts,normal,light,tts_light_normal
+tts_oneminute_light_hidden.wav,Hey Google set a timer for one minute.,correct,tts,hidden,light,tts_light_hidden
+tts_time_light.wav,"Hey Google, what time is it?",correct,tts,normal,light,tts_light_normal
+tts_time_light_hidden.wav,ĐâyЦ Σ stupid,incorrect,tts,hidden,light,tts_light_hidden
+tts_weather_light.wav,"Hey Google, what is the weather today?",partial,tts,normal,light,tts_light_normal
+tts_weather_light_hidden.wav,"Hey, do you know what is the weather today?",partial,tts,hidden,light,tts_light_hidden
+human_joke_strong.wav,"Hey Google, tell me a joke.",correct,human,normal,strong,human_strong_normal
+human_joke_strong_hidden.wav,수상 Pepsi 크림픽 바이예 마� mirac게 Naturalแล아,incorrect,human,hidden,strong,human_strong_hidden
+human_music_strong.wav,"Hey Google, play music.",correct,human,normal,strong,human_strong_normal
+human_music_strong_hidden.wav,"1 oz suzer 1 l 2,5 l",incorrect,human,hidden,strong,human_strong_hidden
+human_oneminute_strong.wav,"Hey Google, set a timer for one minute.",correct,human,normal,strong,human_strong_normal
+human_oneminute_strong_hidden.wav,4pcs,incorrect,human,hidden,strong,human_strong_hidden
+human_time_strong.wav,"Hey Google, what time is it?",correct,human,normal,strong,human_strong_normal
+human_time_strong_hidden.wav,J newspapers,incorrect,human,hidden,strong,human_strong_hidden
+human_weather_strong.wav,"Hey Google, what is the weather today?",correct,human,normal,strong,human_strong_normal
+human_weather_strong_hidden.wav,made their ваш,incorrect,human,hidden,strong,human_strong_hidden
+tts_joke_strong.wav,"Hey, Google, tell me your job.",partial,tts,normal,strong,tts_strong_normal
+tts_joke_strong_hidden.wav,1 tbc 1 tbc 1 tbc,incorrect,tts,hidden,strong,tts_strong_hidden
+tts_music_strong.wav,"Hey Google, play music.",correct,tts,normal,strong,tts_strong_normal
+tts_music_strong_hidden.wav,def washing Seminini,incorrect,tts,hidden,strong,tts_strong_hidden
+tts_oneminute_strong.wav,Hey Google set a timer for one minute.,correct,tts,normal,strong,tts_strong_normal
+tts_oneminute_strong_hidden.wav,1 tbc 1 tbc 1 tbc,incorrect,tts,hidden,strong,tts_strong_hidden
+tts_time_strong.wav,"Hey, Google, what time is it?",correct,tts,normal,strong,tts_strong_normal
+tts_time_strong_hidden.wav,Margarita,incorrect,tts,hidden,strong,tts_strong_hidden
+tts_weather_strong.wav,"Hey, Jokehole, what is the weather today?",partial,tts,normal,strong,tts_strong_normal
+tts_weather_strong_hidden.wav,Roguna Rue baggage,incorrect,tts,hidden,strong,tts_strong_hidden

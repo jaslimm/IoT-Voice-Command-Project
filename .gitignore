@@ -157,6 +157,25 @@ ENV/
 env.bak/
 venv.bak/
 
+venv/
+__pycache__/
+*.pyc
+
+# Audio files
+# *.wav
+*.mp3
+
+# Large datasets
+data/processed/
+data/raw/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
 # Spyder project settings
 .spyderproject
 .spyproject

@@ -1,0 +1,41 @@
+file,transcript,label
+human_joke_light.wav,"Hey Google tell me a joke.",correct
+human_joke_light_hidden.wav,"Hey Google, tell me a joke.",correct
+human_music_light.wav,"Hey Google, play music.",correct
+human_music_light_hidden.wav,"Сейчасitation.",incorrect
+human_oneminute_light.wav,"Hey Google, set a timer for one minute.",correct
+human_oneminute_light_hidden.wav,"Hey Google, set a timer for one minute.",correct
+human_time_light.wav,"Hey Google, what time is it?",correct
+human_time_light_hidden.wav,"Hey Google, what time is it?",correct
+human_weather_light.wav,"Hey Google, what is the weather today?",correct
+human_weather_light_hidden.wav,"Hey Google, what is the weather today?",correct
+tts_joke_light.wav,"Hey Google, tell me a joke.",correct
+tts_joke_light_hidden.wav,"Hey Google tell me joke.",correct
+tts_music_light.wav,"Hey Google, play music.",correct
+tts_music_light_hidden.wav,"if you enjoyed today's video...",incorrect
+tts_oneminute_light.wav,"Hey Google set a timer for one minute.",correct
+tts_oneminute_light_hidden.wav,"Hey Google set a timer for one minute.",correct
+tts_time_light.wav,"Hey Google, what time is it?",correct
+tts_time_light_hidden.wav,"ĐâyЦ Σ stupid",incorrect
+tts_weather_light.wav,"Hey Google, what is the weather today?",partial
+tts_weather_light_hidden.wav,"Hey, do you know what is the weather today?",partial
+human_joke_strong.wav,"Hey Google, tell me a joke.",correct
+human_joke_strong_hidden.wav,"수상 Pepsi 크림픽 바이예 마� mirac게 Naturalแล아",incorrect
+human_music_strong.wav,"Hey Google, play music.",correct
+human_music_strong_hidden.wav,"1 oz suzer 1 l 2,5 l",incorrect
+human_oneminute_strong.wav,"Hey Google, set a timer for one minute.",correct
+human_oneminute_strong_hidden.wav,"4pcs",incorrect
+human_time_strong.wav,"Hey Google, what time is it?",correct
+human_time_strong_hidden.wav,"J newspapers",incorrect
+human_weather_strong.wav,"Hey Google, what is the weather today?",correct
+human_weather_strong_hidden.wav,"made their ваш",incorrect
+tts_joke_strong.wav,"Hey, Google, tell me your job.",partial
+tts_joke_strong_hidden.wav,"1 tbc 1 tbc 1 tbc",incorrect
+tts_music_strong.wav,"Hey Google, play music.",correct
+tts_music_strong_hidden.wav,"def washing Seminini",incorrect
+tts_oneminute_strong.wav,"Hey Google set a timer for one minute.",correct
+tts_oneminute_strong_hidden.wav,"1 tbc 1 tbc 1 tbc",incorrect
+tts_time_strong.wav,"Hey, Google, what time is it?",correct
+tts_time_strong_hidden.wav,"Margarita",incorrect
+tts_weather_strong.wav,"Hey, Jokehole, what is the weather today?",partial
+tts_weather_strong_hidden.wav,"Roguna Rue baggage",incorrect

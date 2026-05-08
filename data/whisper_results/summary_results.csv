@@ -1,0 +1,9 @@
+condition,correct,partial,incorrect
+human_light_hidden,4,0,1
+human_light_normal,5,0,0
+human_strong_hidden,0,0,5
+human_strong_normal,5,0,0
+tts_light_hidden,2,1,2
+tts_light_normal,4,1,0
+tts_strong_hidden,0,0,5
+tts_strong_normal,3,2,0

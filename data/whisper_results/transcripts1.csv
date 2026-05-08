@@ -1,0 +1,41 @@
+file,transcript
+human_joke_light.wav,Hey Google tell me a joke.
+human_joke_light_hidden.wav,"Hey Google, tell me a joke."
+human_music_light.wav,"Hey Google, play music."
+human_music_light_hidden.wav,Сейчасitation.
+human_oneminute_light.wav,"Hey Google, set a timer for one minute."
+human_oneminute_light_hidden.wav,"Hey Google, set a timer for one minute."
+human_time_light.wav,"Hey Google, what time is it?"
+human_time_light_hidden.wav,"Hey Google, what time is it?"
+human_weather_light.wav,"Hey Google, what is the weather today?"
+human_weather_light_hidden.wav,"Hey Google, what is the weather today?"
+tts_joke_light.wav,"Hey Google, tell me a joke."
+tts_joke_light_hidden.wav,Hey Google tell me joke.
+tts_music_light.wav,"Hey Google, play music."
+tts_music_light_hidden.wav,if you enjoyed today's video...
+tts_oneminute_light.wav,Hey Google set a timer for one minute.
+tts_oneminute_light_hidden.wav,Hey Google set a timer for one minute.
+tts_time_light.wav,"Hey Google, what time is it?"
+tts_time_light_hidden.wav,ĐâyЦ Σ stupid
+tts_weather_light.wav,"Hey Google, what is the weather today?"
+tts_weather_light_hidden.wav,"Hey, do you know what is the weather today?"
+human_joke_strong.wav,"Hey Google, tell me a joke."
+human_joke_strong_hidden.wav,수상 Pepsi 크림픽 바이예 마� mirac게 Naturalแล아
+human_music_strong.wav,"Hey Google, play music."
+human_music_strong_hidden.wav,"1 oz suzer 1 l 2,5 l"
+human_oneminute_strong.wav,"Hey Google, set a timer for one minute."
+human_oneminute_strong_hidden.wav,4pcs
+human_time_strong.wav,"Hey Google, what time is it?"
+human_time_strong_hidden.wav,J newspapers
+human_weather_strong.wav,"Hey Google, what is the weather today?"
+human_weather_strong_hidden.wav,made their ваш
+tts_joke_strong.wav,"Hey, Google, tell me your job."
+tts_joke_strong_hidden.wav,1 tbc 1 tbc 1 tbc
+tts_music_strong.wav,"Hey Google, play music."
+tts_music_strong_hidden.wav,def washing Seminini
+tts_oneminute_strong.wav,Hey Google set a timer for one minute.
+tts_oneminute_strong_hidden.wav,1 tbc 1 tbc 1 tbc
+tts_time_strong.wav,"Hey, Google, what time is it?"
+tts_time_strong_hidden.wav,Margarita
+tts_weather_strong.wav,"Hey, Jokehole, what is the weather today?"
+tts_weather_strong_hidden.wav,Roguna Rue baggage
