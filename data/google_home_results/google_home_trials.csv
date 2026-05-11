@@ -1,0 +1,120 @@
+sample,voice_source,masking_level,hidden,trial,wake_word_activated,command_executed_correctly,notes
+human_joke_light_hidden.wav,human,light,yes,1,yes,yes,clear activation
+human_joke_light_hidden.wav,human,light,yes,2,yes,yes,
+human_joke_light_hidden.wav,human,light,yes,3,yes,partial,asked to repeat
+human_joke_light_hidden.wav,human,light,yes,4,yes,yes,
+human_joke_light_hidden.wav,human,light,yes,5,yes,yes,
+
+human_music_light_hidden.wav,human,light,yes,1,yes,partial,opened unrelated music
+human_music_light_hidden.wav,human,light,yes,2,yes,no,did not understand command
+human_music_light_hidden.wav,human,light,yes,3,yes,partial,opened YouTube Music search
+human_music_light_hidden.wav,human,light,yes,4,no,no,no activation
+human_music_light_hidden.wav,human,light,yes,5,yes,partial,
+
+human_oneminute_light_hidden.wav,human,light,yes,1,yes,yes,
+human_oneminute_light_hidden.wav,human,light,yes,2,yes,yes,
+human_oneminute_light_hidden.wav,human,light,yes,3,yes,partial,set wrong timer duration
+human_oneminute_light_hidden.wav,human,light,yes,4,yes,yes,
+human_oneminute_light_hidden.wav,human,light,yes,5,yes,yes,
+
+human_time_light_hidden.wav,human,light,yes,1,yes,yes,
+human_time_light_hidden.wav,human,light,yes,2,yes,yes,
+human_time_light_hidden.wav,human,light,yes,3,yes,yes,
+human_time_light_hidden.wav,human,light,yes,4,yes,partial,repeated wake phrase
+human_time_light_hidden.wav,human,light,yes,5,yes,yes,
+
+human_weather_light_hidden.wav,human,light,yes,1,yes,yes,
+human_weather_light_hidden.wav,human,light,yes,2,yes,partial,opened generic weather search
+human_weather_light_hidden.wav,human,light,yes,3,yes,yes,
+human_weather_light_hidden.wav,human,light,yes,4,yes,yes,
+human_weather_light_hidden.wav,human,light,yes,5,yes,yes,
+
+tts_joke_light_hidden.wav,tts,light,yes,1,yes,partial,misheard joke command
+tts_joke_light_hidden.wav,tts,light,yes,2,yes,yes,
+tts_joke_light_hidden.wav,tts,light,yes,3,yes,partial,
+tts_joke_light_hidden.wav,tts,light,yes,4,no,no,no activation
+tts_joke_light_hidden.wav,tts,light,yes,5,yes,yes,
+
+tts_music_light_hidden.wav,tts,light,yes,1,no,no,no activation
+tts_music_light_hidden.wav,tts,light,yes,2,yes,partial,opened unrelated media
+tts_music_light_hidden.wav,tts,light,yes,3,no,no,
+tts_music_light_hidden.wav,tts,light,yes,4,yes,no,did not understand
+tts_music_light_hidden.wav,tts,light,yes,5,yes,partial,
+
+tts_oneminute_light_hidden.wav,tts,light,yes,1,yes,yes,
+tts_oneminute_light_hidden.wav,tts,light,yes,2,yes,partial,set 10 minute timer
+tts_oneminute_light_hidden.wav,tts,light,yes,3,yes,yes,
+tts_oneminute_light_hidden.wav,tts,light,yes,4,yes,yes,
+tts_oneminute_light_hidden.wav,tts,light,yes,5,yes,partial,
+
+tts_time_light_hidden.wav,tts,light,yes,1,no,no,no activation
+tts_time_light_hidden.wav,tts,light,yes,2,yes,partial,responded with web search
+tts_time_light_hidden.wav,tts,light,yes,3,no,no,
+tts_time_light_hidden.wav,tts,light,yes,4,yes,no,did not understand
+tts_time_light_hidden.wav,tts,light,yes,5,no,no,
+
+tts_weather_light_hidden.wav,tts,light,yes,1,yes,partial,weather response delayed
+tts_weather_light_hidden.wav,tts,light,yes,2,yes,partial,opened generic weather page
+tts_weather_light_hidden.wav,tts,light,yes,3,yes,yes,
+tts_weather_light_hidden.wav,tts,light,yes,4,yes,partial,
+tts_weather_light_hidden.wav,tts,light,yes,5,no,no,no activation
+
+human_joke_strong_hidden.wav,human,strong,yes,1,no,no,no activation
+human_joke_strong_hidden.wav,human,strong,yes,2,yes,partial,heard wake word only
+human_joke_strong_hidden.wav,human,strong,yes,3,no,no,
+human_joke_strong_hidden.wav,human,strong,yes,4,no,no,
+human_joke_strong_hidden.wav,human,strong,yes,5,yes,no,did not understand
+
+human_music_strong_hidden.wav,human,strong,yes,1,no,no,
+human_music_strong_hidden.wav,human,strong,yes,2,no,no,
+human_music_strong_hidden.wav,human,strong,yes,3,yes,partial,opened random playlist
+human_music_strong_hidden.wav,human,strong,yes,4,no,no,
+human_music_strong_hidden.wav,human,strong,yes,5,no,no,
+
+human_oneminute_strong_hidden.wav,human,strong,yes,1,yes,partial,set wrong timer
+human_oneminute_strong_hidden.wav,human,strong,yes,2,no,no,
+human_oneminute_strong_hidden.wav,human,strong,yes,3,no,no,
+human_oneminute_strong_hidden.wav,human,strong,yes,4,yes,no,did not understand
+human_oneminute_strong_hidden.wav,human,strong,yes,5,no,no,
+
+human_time_strong_hidden.wav,human,strong,yes,1,no,no,
+human_time_strong_hidden.wav,human,strong,yes,2,yes,partial,repeated question back
+human_time_strong_hidden.wav,human,strong,yes,3,no,no,
+human_time_strong_hidden.wav,human,strong,yes,4,no,no,
+human_time_strong_hidden.wav,human,strong,yes,5,no,no,
+
+human_weather_strong_hidden.wav,human,strong,yes,1,yes,partial,opened weather card only
+human_weather_strong_hidden.wav,human,strong,yes,2,no,no,
+human_weather_strong_hidden.wav,human,strong,yes,3,no,no,
+human_weather_strong_hidden.wav,human,strong,yes,4,yes,no,did not understand
+human_weather_strong_hidden.wav,human,strong,yes,5,no,no,
+
+tts_joke_strong_hidden.wav,tts,strong,yes,1,no,no,
+tts_joke_strong_hidden.wav,tts,strong,yes,2,no,no,
+tts_joke_strong_hidden.wav,tts,strong,yes,3,yes,no,wake word triggered only
+tts_joke_strong_hidden.wav,tts,strong,yes,4,no,no,
+tts_joke_strong_hidden.wav,tts,strong,yes,5,no,no,
+
+tts_music_strong_hidden.wav,tts,strong,yes,1,no,no,
+tts_music_strong_hidden.wav,tts,strong,yes,2,yes,partial,opened media search
+tts_music_strong_hidden.wav,tts,strong,yes,3,no,no,
+tts_music_strong_hidden.wav,tts,strong,yes,4,no,no,
+tts_music_strong_hidden.wav,tts,strong,yes,5,no,no,
+
+tts_oneminute_strong_hidden.wav,tts,strong,yes,1,no,no,
+tts_oneminute_strong_hidden.wav,tts,strong,yes,2,no,no,
+tts_oneminute_strong_hidden.wav,tts,strong,yes,3,no,no,
+tts_oneminute_strong_hidden.wav,tts,strong,yes,4,yes,no,wake word only
+tts_oneminute_strong_hidden.wav,tts,strong,yes,5,no,no,
+
+tts_time_strong_hidden.wav,tts,strong,yes,1,no,no,
+tts_time_strong_hidden.wav,tts,strong,yes,2,no,no,
+tts_time_strong_hidden.wav,tts,strong,yes,3,yes,partial,opened search results
+tts_time_strong_hidden.wav,tts,strong,yes,4,no,no,
+tts_time_strong_hidden.wav,tts,strong,yes,5,no,no,
+
+tts_weather_strong_hidden.wav,tts,strong,yes,1,no,no,
+tts_weather_strong_hidden.wav,tts,strong,yes,2,yes,no,wake word only
+tts_weather_strong_hidden.wav,tts,strong,yes,3,no,no,
+tts_weather_strong_hidden.wav,tts,strong,yes,4,no,no,
+tts_weather_strong_hidden.wav,tts,strong,yes,5,no,no,

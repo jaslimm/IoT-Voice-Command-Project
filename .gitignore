@@ -166,8 +166,8 @@ __pycache__/
 *.mp3
 
 # Large datasets
-data/processed/
-data/raw/
+# data/processed/
+# data/raw/
 
 # Jupyter
 .ipynb_checkpoints/
